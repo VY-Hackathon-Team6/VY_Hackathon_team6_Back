@@ -23,6 +23,7 @@ builder.Services.AddControllers();
 builder.Services.ConfigServices(builder.Configuration);
 builder.Services.AddTransient<IUserService, UserService>();
 builder.Services.AddTransient<IOutputGroundHandlingService, OutputGroundHandlingService>();
+builder.Services.AddTransient<IInputWorkers, InputWorkers>();
 builder.Services.AddHttpContextAccessor();
 builder.Services.AddAutoMapper(typeof(ApiProfile));
 builder.Services.AddAutoMapper(typeof(ServiceProfile));
