@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "zIXIkP7Rzko/b0ih76FfEU06t6ayk5u+eDQ/YvmtV1023O5PQ4SSE2YAW/+nuGuZ0VeWsitjdsMsQLoXncJU5Q==",
+  "dgSpecHash": "Z/lZ1VbM/hA/lpf07+BPZdPnxQJuepWleODlJIHYElFVljaFKdUTOiK2IaMSBtT/Zh/rzy+WpkwB79Ua1MY5Kg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\laura\\source\\repos\\VY-Hackathon-Team6-back\\Application.Dtos\\Application.Dtos.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/vueling/Desktop/VY_Hackathon_team6_Back/Application.Dtos/Application.Dtos.csproj",
+  "expectedPackageFiles": [
+    "/Users/vueling/.nuget/packages/microsoft.netcore.app.ref/6.0.11/microsoft.netcore.app.ref.6.0.11.nupkg.sha512",
+    "/Users/vueling/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.11/microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512"
+  ],
   "logs": []
 }

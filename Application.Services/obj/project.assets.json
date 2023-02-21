@@ -2008,43 +2008,41 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\laura\\.nuget\\packages\\": {}
+    "/Users/vueling/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\laura\\source\\repos\\VY-Hackathon-Team6-back\\Application.Services\\Application.Services.csproj",
+      "projectUniqueName": "/Users/vueling/Desktop/VY_Hackathon_team6_Back/Application.Services/Application.Services.csproj",
       "projectName": "Application.Services",
-      "projectPath": "C:\\Users\\laura\\source\\repos\\VY-Hackathon-Team6-back\\Application.Services\\Application.Services.csproj",
-      "packagesPath": "C:\\Users\\laura\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\laura\\source\\repos\\VY-Hackathon-Team6-back\\Application.Services\\obj\\",
+      "projectPath": "/Users/vueling/Desktop/VY_Hackathon_team6_Back/Application.Services/Application.Services.csproj",
+      "packagesPath": "/Users/vueling/.nuget/packages/",
+      "outputPath": "/Users/vueling/Desktop/VY_Hackathon_team6_Back/Application.Services/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\laura\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/vueling/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\laura\\source\\repos\\VY-Hackathon-Team6-back\\CrossCutting.Utils\\CrossCutting.Utils.csproj": {
-              "projectPath": "C:\\Users\\laura\\source\\repos\\VY-Hackathon-Team6-back\\CrossCutting.Utils\\CrossCutting.Utils.csproj"
+            "/Users/vueling/Desktop/VY_Hackathon_team6_Back/CrossCutting.Utils/CrossCutting.Utils.csproj": {
+              "projectPath": "/Users/vueling/Desktop/VY_Hackathon_team6_Back/CrossCutting.Utils/CrossCutting.Utils.csproj"
             },
-            "C:\\Users\\laura\\source\\repos\\VY-Hackathon-Team6-back\\Domain.Entities\\Domain.Entities.csproj": {
-              "projectPath": "C:\\Users\\laura\\source\\repos\\VY-Hackathon-Team6-back\\Domain.Entities\\Domain.Entities.csproj"
+            "/Users/vueling/Desktop/VY_Hackathon_team6_Back/Domain.Entities/Domain.Entities.csproj": {
+              "projectPath": "/Users/vueling/Desktop/VY_Hackathon_team6_Back/Domain.Entities/Domain.Entities.csproj"
             },
-            "C:\\Users\\laura\\source\\repos\\VY-Hackathon-Team6-back\\Infrastucture.DataModels\\Infrastucture.DataModels.csproj": {
-              "projectPath": "C:\\Users\\laura\\source\\repos\\VY-Hackathon-Team6-back\\Infrastucture.DataModels\\Infrastucture.DataModels.csproj"
+            "/Users/vueling/Desktop/VY_Hackathon_team6_Back/Infrastucture.DataModels/Infrastucture.DataModels.csproj": {
+              "projectPath": "/Users/vueling/Desktop/VY_Hackathon_team6_Back/Infrastucture.DataModels/Infrastucture.DataModels.csproj"
             },
-            "C:\\Users\\laura\\source\\repos\\VY-Hackathon-Team6-back\\Infrastucture.Persistence\\Infrastucture.Persistence.csproj": {
-              "projectPath": "C:\\Users\\laura\\source\\repos\\VY-Hackathon-Team6-back\\Infrastucture.Persistence\\Infrastucture.Persistence.csproj"
+            "/Users/vueling/Desktop/VY_Hackathon_team6_Back/Infrastucture.Persistence/Infrastucture.Persistence.csproj": {
+              "projectPath": "/Users/vueling/Desktop/VY_Hackathon_team6_Back/Infrastucture.Persistence/Infrastucture.Persistence.csproj"
             }
           }
         }
@@ -2095,12 +2093,22 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.11, 6.0.11]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.11, 6.0.11]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet/7.0.100/libexec/sdk/7.0.100/RuntimeIdentifierGraph.json"
       }
     }
   }

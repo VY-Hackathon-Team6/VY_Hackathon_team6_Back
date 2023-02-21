@@ -2765,40 +2765,38 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\laura\\.nuget\\packages\\": {}
+    "/Users/vueling/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\laura\\source\\repos\\VY-Hackathon-Team6-back\\Distrubuted.WebAPI\\Distrubuted.WebAPI.csproj",
+      "projectUniqueName": "/Users/vueling/Desktop/VY_Hackathon_team6_Back/Distrubuted.WebAPI/Distrubuted.WebAPI.csproj",
       "projectName": "Distrubuted.WebAPI",
-      "projectPath": "C:\\Users\\laura\\source\\repos\\VY-Hackathon-Team6-back\\Distrubuted.WebAPI\\Distrubuted.WebAPI.csproj",
-      "packagesPath": "C:\\Users\\laura\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\laura\\source\\repos\\VY-Hackathon-Team6-back\\Distrubuted.WebAPI\\obj\\",
+      "projectPath": "/Users/vueling/Desktop/VY_Hackathon_team6_Back/Distrubuted.WebAPI/Distrubuted.WebAPI.csproj",
+      "packagesPath": "/Users/vueling/.nuget/packages/",
+      "outputPath": "/Users/vueling/Desktop/VY_Hackathon_team6_Back/Distrubuted.WebAPI/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\laura\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/vueling/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\laura\\source\\repos\\VY-Hackathon-Team6-back\\Application.Dtos\\Application.Dtos.csproj": {
-              "projectPath": "C:\\Users\\laura\\source\\repos\\VY-Hackathon-Team6-back\\Application.Dtos\\Application.Dtos.csproj"
+            "/Users/vueling/Desktop/VY_Hackathon_team6_Back/Application.Dtos/Application.Dtos.csproj": {
+              "projectPath": "/Users/vueling/Desktop/VY_Hackathon_team6_Back/Application.Dtos/Application.Dtos.csproj"
             },
-            "C:\\Users\\laura\\source\\repos\\VY-Hackathon-Team6-back\\Application.Services\\Application.Services.csproj": {
-              "projectPath": "C:\\Users\\laura\\source\\repos\\VY-Hackathon-Team6-back\\Application.Services\\Application.Services.csproj"
+            "/Users/vueling/Desktop/VY_Hackathon_team6_Back/Application.Services/Application.Services.csproj": {
+              "projectPath": "/Users/vueling/Desktop/VY_Hackathon_team6_Back/Application.Services/Application.Services.csproj"
             },
-            "C:\\Users\\laura\\source\\repos\\VY-Hackathon-Team6-back\\CrossCutting.Utils\\CrossCutting.Utils.csproj": {
-              "projectPath": "C:\\Users\\laura\\source\\repos\\VY-Hackathon-Team6-back\\CrossCutting.Utils\\CrossCutting.Utils.csproj"
+            "/Users/vueling/Desktop/VY_Hackathon_team6_Back/CrossCutting.Utils/CrossCutting.Utils.csproj": {
+              "projectPath": "/Users/vueling/Desktop/VY_Hackathon_team6_Back/CrossCutting.Utils/CrossCutting.Utils.csproj"
             }
           }
         }
@@ -2855,6 +2853,20 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.11, 6.0.11]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.osx-arm64",
+            "version": "[6.0.11, 6.0.11]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.11, 6.0.11]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -2863,7 +2875,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet/7.0.100/libexec/sdk/7.0.100/RuntimeIdentifierGraph.json"
       }
     }
   }

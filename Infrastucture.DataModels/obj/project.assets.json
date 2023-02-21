@@ -669,26 +669,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\laura\\.nuget\\packages\\": {}
+    "/Users/vueling/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\laura\\source\\repos\\VY-Hackathon-Team6-back\\Infrastucture.DataModels\\Infrastucture.DataModels.csproj",
+      "projectUniqueName": "/Users/vueling/Desktop/VY_Hackathon_team6_Back/Infrastucture.DataModels/Infrastucture.DataModels.csproj",
       "projectName": "Infrastucture.DataModels",
-      "projectPath": "C:\\Users\\laura\\source\\repos\\VY-Hackathon-Team6-back\\Infrastucture.DataModels\\Infrastucture.DataModels.csproj",
-      "packagesPath": "C:\\Users\\laura\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\laura\\source\\repos\\VY-Hackathon-Team6-back\\Infrastucture.DataModels\\obj\\",
+      "projectPath": "/Users/vueling/Desktop/VY_Hackathon_team6_Back/Infrastucture.DataModels/Infrastucture.DataModels.csproj",
+      "packagesPath": "/Users/vueling/.nuget/packages/",
+      "outputPath": "/Users/vueling/Desktop/VY_Hackathon_team6_Back/Infrastucture.DataModels/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\laura\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/vueling/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -723,12 +721,22 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.11, 6.0.11]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.11, 6.0.11]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet/7.0.100/libexec/sdk/7.0.100/RuntimeIdentifierGraph.json"
       }
     }
   }
