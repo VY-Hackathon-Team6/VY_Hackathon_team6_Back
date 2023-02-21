@@ -9,6 +9,6 @@ namespace Application.Services.Contracts
 {
     public interface IInputWorkers
     {
-        void SaveFile(JObject json);
+        void SaveFile(string json);
     }
 }

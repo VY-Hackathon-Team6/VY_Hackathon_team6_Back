@@ -10,7 +10,7 @@ namespace Application.Services.Implementation
 {
     public class InputWorkers : IInputWorkers
     {
-        public void SaveFile(JObject json)
+        public void SaveFile(string json)
         {
             var path = $"c://raw//{DateTime.Now.ToString("yyyyMMdd-HHmmss")}.json";
             File.WriteAllText(path, json.ToString());

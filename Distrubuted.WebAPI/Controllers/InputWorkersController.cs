@@ -9,6 +9,8 @@ using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Infrastructure;
 using Newtonsoft.Json.Linq;
+using System.Text.Json;
+using System.Text.Json.Nodes;
 
 namespace Distrubuted.WebAPI.Controllers
 {
@@ -30,11 +32,11 @@ namespace Distrubuted.WebAPI.Controllers
 
         [HttpPost]
         [AllowAnonymous]
-        public async Task<IActionResult> SaveFile([FromBody] JObject json)
+        public async Task<IActionResult> SaveFile([FromBody] JsonElement json)
         {
             try
             {
-                _inputWorkers.SaveFile(json);
+                _inputWorkers.SaveFile(json.ToString());
                 return Ok();
             }
             catch(Exception ex) { return StatusCode(402); }
