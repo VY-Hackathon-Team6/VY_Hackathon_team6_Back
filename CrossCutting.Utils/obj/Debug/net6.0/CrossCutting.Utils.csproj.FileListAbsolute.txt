@@ -1,0 +1,15 @@
+C:\Users\laura\source\repos\VY-Hackathon-Team6-back\CrossCutting.Utils\bin\Debug\net6.0\CrossCutting.Utils.deps.json
+C:\Users\laura\source\repos\VY-Hackathon-Team6-back\CrossCutting.Utils\bin\Debug\net6.0\CrossCutting.Utils.dll
+C:\Users\laura\source\repos\VY-Hackathon-Team6-back\CrossCutting.Utils\bin\Debug\net6.0\CrossCutting.Utils.pdb
+C:\Users\laura\source\repos\VY-Hackathon-Team6-back\CrossCutting.Utils\obj\Debug\net6.0\CrossCutting.Utils.csproj.AssemblyReference.cache
+C:\Users\laura\source\repos\VY-Hackathon-Team6-back\CrossCutting.Utils\obj\Debug\net6.0\CrossCutting.Utils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laura\source\repos\VY-Hackathon-Team6-back\CrossCutting.Utils\obj\Debug\net6.0\CrossCutting.Utils.AssemblyInfoInputs.cache
+C:\Users\laura\source\repos\VY-Hackathon-Team6-back\CrossCutting.Utils\obj\Debug\net6.0\CrossCutting.Utils.AssemblyInfo.cs
+C:\Users\laura\source\repos\VY-Hackathon-Team6-back\CrossCutting.Utils\obj\Debug\net6.0\CrossCutting.Utils.csproj.CoreCompileInputs.cache
+C:\Users\laura\source\repos\VY-Hackathon-Team6-back\CrossCutting.Utils\obj\Debug\net6.0\CrossCutting.Utils.dll
+C:\Users\laura\source\repos\VY-Hackathon-Team6-back\CrossCutting.Utils\obj\Debug\net6.0\refint\CrossCutting.Utils.dll
+C:\Users\laura\source\repos\VY-Hackathon-Team6-back\CrossCutting.Utils\obj\Debug\net6.0\CrossCutting.Utils.pdb
+C:\Users\laura\source\repos\VY-Hackathon-Team6-back\CrossCutting.Utils\obj\Debug\net6.0\ref\CrossCutting.Utils.dll
+C:\Users\laura\source\repos\VY-Hackathon-Team6-back\CrossCutting.Utils\bin\Debug\net6.0\Domain.Entities.dll
+C:\Users\laura\source\repos\VY-Hackathon-Team6-back\CrossCutting.Utils\bin\Debug\net6.0\Domain.Entities.pdb
+C:\Users\laura\source\repos\VY-Hackathon-Team6-back\CrossCutting.Utils\obj\Debug\net6.0\CrossCutting.Utils.csproj.CopyComplete

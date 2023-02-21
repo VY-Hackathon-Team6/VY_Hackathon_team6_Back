@@ -1,0 +1,17 @@
+C:\Users\laura\source\repos\VY-Hackathon-Team6-back\Infrastucture.Persistence\bin\Debug\net6.0\Infrastucture.Persistence.deps.json
+C:\Users\laura\source\repos\VY-Hackathon-Team6-back\Infrastucture.Persistence\bin\Debug\net6.0\Infrastucture.Persistence.dll
+C:\Users\laura\source\repos\VY-Hackathon-Team6-back\Infrastucture.Persistence\bin\Debug\net6.0\Infrastucture.Persistence.pdb
+C:\Users\laura\source\repos\VY-Hackathon-Team6-back\Infrastucture.Persistence\bin\Debug\net6.0\Infrastucture.DataModels.dll
+C:\Users\laura\source\repos\VY-Hackathon-Team6-back\Infrastucture.Persistence\bin\Debug\net6.0\Infrastucture.DataModels.pdb
+C:\Users\laura\source\repos\VY-Hackathon-Team6-back\Infrastucture.Persistence\obj\Debug\net6.0\Infrastucture.Persistence.csproj.AssemblyReference.cache
+C:\Users\laura\source\repos\VY-Hackathon-Team6-back\Infrastucture.Persistence\obj\Debug\net6.0\Infrastucture.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laura\source\repos\VY-Hackathon-Team6-back\Infrastucture.Persistence\obj\Debug\net6.0\Infrastucture.Persistence.AssemblyInfoInputs.cache
+C:\Users\laura\source\repos\VY-Hackathon-Team6-back\Infrastucture.Persistence\obj\Debug\net6.0\Infrastucture.Persistence.AssemblyInfo.cs
+C:\Users\laura\source\repos\VY-Hackathon-Team6-back\Infrastucture.Persistence\obj\Debug\net6.0\Infrastucture.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\laura\source\repos\VY-Hackathon-Team6-back\Infrastucture.Persistence\obj\Debug\net6.0\Infrastucture.Persistence.csproj.CopyComplete
+C:\Users\laura\source\repos\VY-Hackathon-Team6-back\Infrastucture.Persistence\obj\Debug\net6.0\Infrastucture.Persistence.dll
+C:\Users\laura\source\repos\VY-Hackathon-Team6-back\Infrastucture.Persistence\obj\Debug\net6.0\refint\Infrastucture.Persistence.dll
+C:\Users\laura\source\repos\VY-Hackathon-Team6-back\Infrastucture.Persistence\obj\Debug\net6.0\Infrastucture.Persistence.pdb
+C:\Users\laura\source\repos\VY-Hackathon-Team6-back\Infrastucture.Persistence\obj\Debug\net6.0\ref\Infrastucture.Persistence.dll
+C:\Users\laura\source\repos\VY-Hackathon-Team6-back\Infrastucture.Persistence\bin\Debug\net6.0\Infrastucture.Persistence.runtimeconfig.json
+C:\Users\laura\source\repos\VY-Hackathon-Team6-back\Infrastucture.Persistence\obj\Debug\net6.0\Infrastucture.Persistence.genruntimeconfig.cache

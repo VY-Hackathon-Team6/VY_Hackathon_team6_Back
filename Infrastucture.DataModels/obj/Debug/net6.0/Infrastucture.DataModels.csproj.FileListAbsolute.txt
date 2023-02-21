@@ -1,0 +1,12 @@
+C:\Users\laura\source\repos\VY-Hackathon-Team6-back\Infrastucture.DataModels\bin\Debug\net6.0\Infrastucture.DataModels.deps.json
+C:\Users\laura\source\repos\VY-Hackathon-Team6-back\Infrastucture.DataModels\bin\Debug\net6.0\Infrastucture.DataModels.dll
+C:\Users\laura\source\repos\VY-Hackathon-Team6-back\Infrastucture.DataModels\bin\Debug\net6.0\Infrastucture.DataModels.pdb
+C:\Users\laura\source\repos\VY-Hackathon-Team6-back\Infrastucture.DataModels\obj\Debug\net6.0\Infrastucture.DataModels.csproj.AssemblyReference.cache
+C:\Users\laura\source\repos\VY-Hackathon-Team6-back\Infrastucture.DataModels\obj\Debug\net6.0\Infrastucture.DataModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laura\source\repos\VY-Hackathon-Team6-back\Infrastucture.DataModels\obj\Debug\net6.0\Infrastucture.DataModels.AssemblyInfoInputs.cache
+C:\Users\laura\source\repos\VY-Hackathon-Team6-back\Infrastucture.DataModels\obj\Debug\net6.0\Infrastucture.DataModels.AssemblyInfo.cs
+C:\Users\laura\source\repos\VY-Hackathon-Team6-back\Infrastucture.DataModels\obj\Debug\net6.0\Infrastucture.DataModels.csproj.CoreCompileInputs.cache
+C:\Users\laura\source\repos\VY-Hackathon-Team6-back\Infrastucture.DataModels\obj\Debug\net6.0\Infrastucture.DataModels.dll
+C:\Users\laura\source\repos\VY-Hackathon-Team6-back\Infrastucture.DataModels\obj\Debug\net6.0\refint\Infrastucture.DataModels.dll
+C:\Users\laura\source\repos\VY-Hackathon-Team6-back\Infrastucture.DataModels\obj\Debug\net6.0\Infrastucture.DataModels.pdb
+C:\Users\laura\source\repos\VY-Hackathon-Team6-back\Infrastucture.DataModels\obj\Debug\net6.0\ref\Infrastucture.DataModels.dll
