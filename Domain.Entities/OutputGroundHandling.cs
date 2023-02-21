@@ -9,29 +9,31 @@ namespace Domain.Entities
 {
     public class OutputGroundHandling
     {
+        [JsonPropertyName("day")]
         public DateTime Day { get; set; }
 
+        [JsonPropertyName("hour")]
         public string Hour { get; set; }
 
-        [JsonPropertyName("handling_function")]
+        [JsonPropertyName("handlingFuncion")]
         public string HandlingFunction { get; set; }
 
-        [JsonPropertyName("full-time_employees")]
+        [JsonPropertyName("fullTimeEmployees")]
         public int FullTimeEmployees { get; set; }
 
-        [JsonPropertyName("part-time_employees")]
+        [JsonPropertyName("partTimeEmployees")]
         public int PartTimeEmployees { get; set; }
 
-        [JsonPropertyName("total_employees")]
+        [JsonPropertyName("totalEmployees")]
         public int TotalEmployees { get; set; }
 
-        [JsonPropertyName("full-time_employees_cost")]
+        [JsonPropertyName("fullTimeEmployeesCost")]
         public Double FullTimeEmployeesCost { get; set; }
 
-        [JsonPropertyName("part-time_employees_cost")]
+        [JsonPropertyName("partTimeEmployeesCost")]
         public Double PartTimeEmployeesCost { get; set; }
 
-        [JsonPropertyName("total_cost")]
+        [JsonPropertyName("totalCost")]
         public Double TotalCost { get; set; }
     }
 }
