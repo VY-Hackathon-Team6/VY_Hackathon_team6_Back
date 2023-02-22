@@ -31,7 +31,7 @@ builder.Services.AddAutoMapper(typeof(ServiceProfile));
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen(options =>
 {
-    options.SwaggerDoc("v1", new OpenApiInfo { Title = "Economanager", Version = "V1" });
+    options.SwaggerDoc("v1", new OpenApiInfo { Title = "VY-Hackathon", Version = "V1" });
     options.AddSecurityDefinition("JWT", new OpenApiSecurityScheme
     {
         Description = "",
@@ -93,7 +93,6 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-app.UseHttpsRedirection();
 
 await UserDBInitialize.SeedRoles(app);
 await UserDBInitialize.SeedUsers(app);

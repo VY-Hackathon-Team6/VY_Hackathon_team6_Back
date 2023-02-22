@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ilT0Yg/26lGRQM1kgzl39R3bmTPHBYnje7MUySNes9uXu1JqJT9NFsdRvDaDGL64VgOdwHwLKkTvak3+2IN/1w==",
+  "dgSpecHash": "vulh5U1vYMqYDVreDmY8K3xLy9ML9C0UZuh8MivUnkeOe54apxC7E1OfENfNk2Z2EO18TMu+IGECgKXr8wNvUA==",
   "success": true,
   "projectFilePath": "/Users/vueling/Desktop/VY_Hackathon_team6_Back/Distrubuted.WebAPI/Distrubuted.WebAPI.csproj",
   "expectedPackageFiles": [
@@ -63,10 +63,7 @@
     "/Users/vueling/.nuget/packages/system.security.cryptography.cng/4.5.0/system.security.cryptography.cng.4.5.0.nupkg.sha512",
     "/Users/vueling/.nuget/packages/system.text.encoding/4.3.0/system.text.encoding.4.3.0.nupkg.sha512",
     "/Users/vueling/.nuget/packages/system.text.encodings.web/7.0.0/system.text.encodings.web.7.0.0.nupkg.sha512",
-    "/Users/vueling/.nuget/packages/system.text.json/7.0.0/system.text.json.7.0.0.nupkg.sha512",
-    "/Users/vueling/.nuget/packages/microsoft.netcore.app.ref/6.0.11/microsoft.netcore.app.ref.6.0.11.nupkg.sha512",
-    "/Users/vueling/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.11/microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
-    "/Users/vueling/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.11/microsoft.netcore.app.host.osx-arm64.6.0.11.nupkg.sha512"
+    "/Users/vueling/.nuget/packages/system.text.json/7.0.0/system.text.json.7.0.0.nupkg.sha512"
   ],
   "logs": []
 }
